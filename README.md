@@ -1,9 +1,5 @@
 # 30-days-of-code-log-r1
 
-### my challenge
-
-## 30 Days Code Sprint
-
 | Log 1 |
 | --- |
 | [30 Days Round 1]
@@ -16,7 +12,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| March 8, 2021   | April 24, 2021 |
+| March 8, 2021   | April 6, 2021 |
 
 ## Goals
 
@@ -45,7 +41,6 @@ This is my version of the 100 days of code, personally what works for me is a sh
 ---
 
 -->
----
 
 ## 1. xx 
 ### Day 1: March 8, 2021 - Monday
