@@ -26,6 +26,26 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ## Code Log
 
+### Day 2: March 9, 2021 - Tuesday
+
+
+**1. Code Challenge:**
+   CodeWars: 7kyu sum of odd numbers - completed
+
+
+**2. Course: "The complete react developer in 2021"**
+  - Going through the lifecycle of a component, which consists of three main phases:-
+
+![2-component-phases-png](assets/images/png/2-component-phases.png)
+
+
+
+**Links:**
+- Code Challenge:  
+    - Sum of odd numbers - [Readme & notes](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-sum-of-odd-numbers.md)
+    - Sum of odd numbers - [JS Solution(s)](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-sum-of-odd-numbers.js)
+
+
 ---
 
 ### Day 1: March 8, 2021 - Monday
@@ -37,19 +57,23 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ---
 
-
 **1. Code Challenge:**
-   CodeWars:7kyu:Vaporcode
+   CodeWars: 7kyu Vaporcode - completed
 
 
 **2. Course: "The complete react developer in 2021"**
-
+  - Covering the basics of React, using create react app, pulling simple data from 3rd party api and hosting with github pages.
+  - Drilled in that we need to always consider the following three items 
+    - Decide on Components
+    - Decide the State and where it lives
+    - What changes when state changes 
 
 
 **3. Book: "The Checklist Manifesto"**
-   - Read: chapter1
+   - Read: Intro & chapter1 - 
      - Key takeout(s):
-     - 
+     - 'one needs to practice to achieve mastery, a body of experience before one achieves real success."
+     - However that alone is not the answer as mistakes are still made by even the most well trained and intentioned individuals. 
 
 **Links:**
 - Code Challenge:  
