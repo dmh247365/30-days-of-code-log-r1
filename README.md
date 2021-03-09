@@ -47,5 +47,5 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 **Links:**
 - Code Challenge:  
-    - Vaporcode - [Readme & notes](https://dmh247365.github.io/javascript-code-challenges/CodeWars/7kyu/7kyu-vaporcode.md)
-    - Vaporcode - [JS Solution(s)](https://dmh247365.github.io/javascript-code-challenges/tree/main/CodeWars/7kyu/7kyu-vaporcode.js)
+    - Vaporcode - [Readme & notes](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-vaporcode.md)
+    - Vaporcode - [JS Solution(s)](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-vaporcode.js)
