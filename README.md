@@ -28,24 +28,24 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
-| 1/30 | 0/30 | 0/30 | 1/30 | 0/30 | 1/30 | 0/30 |
+| 1/30 | 0/30 | 0/30 | 1/30 | N/A | 1/30 | N/A |
 
 
-<!--
-
-## 1.
-### Day 1: March,8 2021 - Monday
-**Project:** 
-**Progress:**
-**Thoughts:**
-**Link to Work:**
 ---
--->
 
-## 1. xx 
 ### Day 1: March 8, 2021 - Monday
 
+1. Code Challenge:
+   CodeWars:7kyu:Vaporcode
 
+2. Course: "The complete react developer in 2021"
 
-Code Challenge: CodeWars:7kyu:Vaporcode
+3. Book: "The Checklist Manifesto"
+   - Read: chapter1
+     - Key takeout(s):
+       - blah
 
+**Links:**
+- Code Challenge:  
+    - Vaporcode - [Readme & notes](https://dmh247365.github.io/javascript-code-challenges/tree/main/Codewars/7kyu/7kyu-vaporcode.md)
+    - Vaporcode - [JS Solution(s)](https://dmh247365.github.io/javascript-code-challenges/tree/main/Codewars/7kyu/7kyu-vaporcode.js)
