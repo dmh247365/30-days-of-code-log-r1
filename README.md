@@ -16,7 +16,6 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ## Goals
 
-- [ ] Code daily
 - [ ] Complete daily code challenge (codewars etc)
 - [ ] Pass the OpenJS Node JS Application Development(JSNAD) Exam
 - [ ] Pass the OpenJS Node JS Services Developer(JSNSD) Exam
@@ -26,21 +25,27 @@ This is my version of the 100 days of code, personally what works for me is a sh
 - [ ] Books - read "Make it stick" by Brown, Roediger & McDaniel
 
 ## Code Log
+
+|  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------  
+| 1/30 | 0/30 | 0/30 | 1/30 | 0/30 | 1/30 | 0/30 |
+
+
 <!--
 
 ## 1.
 ### Day 1: March,8 2021 - Monday
-
 **Project:** 
-
 **Progress:**
-
 **Thoughts:**
-
 **Link to Work:**
 ---
-
 -->
 
 ## 1. xx 
 ### Day 1: March 8, 2021 - Monday
+
+
+
+Code Challenge: CodeWars:7kyu:Vaporcode
+
