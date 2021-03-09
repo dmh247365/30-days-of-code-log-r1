@@ -73,7 +73,12 @@ This is my version of the 100 days of code, personally what works for me is a sh
   - Drilled in that we need to always consider the following three items 
     - Decide on Components
     - Decide the State and where it lives
-    - What changes when state changes 
+    - What changes when state changes
+
+  Built a simple app that displays inform on cards from a third party api, and which we can perform a simple search on.
+  
+  ![1-MonsterRolodex-png](assets/images/png/1-MonsterRolodex.png)
+
 
 
 **3. Book: "The Checklist Manifesto"**
