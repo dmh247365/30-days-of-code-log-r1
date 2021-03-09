@@ -28,6 +28,10 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ### Day 2: March 9, 2021 - Tuesday
 
+|  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------  
+| 2/30 | 0/30 | 0/30 | 2/30 | N/A | 1/30 | N/A |
+
 
 **1. Code Challenge:**
    CodeWars: 7kyu sum of odd numbers - completed
@@ -35,8 +39,11 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 **2. Course: "The complete react developer in 2021"**
   - Going through the lifecycle of a component, which consists of three main phases:-
+    - Mounting: done first
+    - Updating: we can put in `shouldComponentUpdate()` with a ternary operator, so as to render or not. 
+    - Unmounting: when done, component is forgotten about by DOM.
 
-![2-component-phases-png](assets/images/png/2-component-phases.png)
+![2-ComponentPhases-png](assets/images/png/2-ComponentPhases.png)
 
 
 
