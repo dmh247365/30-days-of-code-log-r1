@@ -24,25 +24,26 @@ This is my version of the 100 days of code, personally what works for me is a sh
 - [ ] Books - read first "The Checklist Manifesto" by Atul Gawande
 - [ ] Books - read second "Make it Stick" by Brown, Roediger & McDaniel
 
-## Code Log
+&nbsp;  
+
+### Code Log
 
 ### Day 3: March 10, 2021 - Wednesday
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
-| 3/30 | 0/30 | 0/30 | 2/30 | N/A | 2/30 | N/A |
+| 3/30 | 0/30 | 0/30 | 3/30 | N/A | 2/30 | N/A |
 
 
 **1. Code Challenge:**
    CodeWars: 
-    CodeWars: 7kyu range bit counting - completed
+    CodeWars: 7kyu range bit counting - <span style="color: #00ff00">completed</span>
 
 
 **2. Course: "The complete react developer in 2021"**
-  - Going through the lifecycle of a component, which consists of three main phases:-
-    - xx
-    - xx
-    - xx
+  - Started building E Commerce site in React 
+    - Did Homepage and broken it down into components 
+    - Used Sass - which is css with superpowers
 
 ![3-ECommerce-png](assets/images/png/3-ECommerce.png)
 
@@ -64,7 +65,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 
 **1. Code Challenge:**
-   CodeWars: 7kyu sum of odd numbers - completed
+   CodeWars: 7kyu sum of odd numbers - <span style="color: #00ff00">completed</span>
 
 
 **2. Course: "The complete react developer in 2021"**
@@ -101,7 +102,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 ---
 
 **1. Code Challenge:**
-   CodeWars: 7kyu Vaporcode - completed
+   CodeWars: 7kyu Vaporcode - <span style="color: #00ff00">completed</span>
 
 
 **2. Course: "The complete react developer in 2021"**
