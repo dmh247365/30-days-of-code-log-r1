@@ -26,11 +26,34 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ## Code Log
 
+### Day 3: March 10, 2021 - Wednesday
+
+|  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------  
+| 3/30 | 0/30 | 0/30 | 2/30 | N/A | 2/30 | N/A |
+
+
+**1. Code Challenge:**
+   CodeWars: 
+    CodeWars: 7kyu range bit counting - completed
+
+
+
+
+**Links:**
+- Code Challenge:  
+    - Sum of odd numbers - [Readme & notes](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-range-bit-counting.md)
+    - Sum of odd numbers - [JS Solution(s)](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-range-bit-counting.js)
+
+
+
+---
+
 ### Day 2: March 9, 2021 - Tuesday
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
-| 2/30 | 0/30 | 0/30 | 2/30 | N/A | 1/30 | N/A |
+| 2/30 | 0/30 | 0/30 | 2/30 | N/A | 2/30 | N/A |
 
 
 **1. Code Challenge:**
@@ -45,6 +68,12 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ![2-ComponentPhases-png](assets/images/png/2-ComponentPhases.png)
 
+
+**3. Book: "The Checklist Manifesto"**
+   - Read: Ch.2 The Checklist- & Ch.3 The end of the Master Builder
+     - Key takeout(s):
+     - Checklist should be simple, brief and to the point. Checklists establish a higher standard of baseline performance.
+     - Complex problems cannot be solved by one person, group ownership, responsibility and visible accountability is the key.
 
 
 **Links:**
@@ -82,7 +111,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 
 **3. Book: "The Checklist Manifesto"**
-   - Read: Intro & chapter1 - 
+   - Read: Intro & Ch.1 The problem of extreme complexity 
      - Key takeout(s):
      - 'one needs to practice to achieve mastery, a body of experience before one achieves real success."
      - However that alone is not the answer as mistakes are still made by even the most well trained and intentioned individuals. 
