@@ -19,10 +19,10 @@ This is my version of the 100 days of code, personally what works for me is a sh
 - [ ] Complete daily code challenge (codewars etc)
 - [ ] Pass the OpenJS Node JS Application Development(JSNAD) Exam
 - [ ] Pass the OpenJS Node JS Services Developer(JSNSD) Exam
-- [ ] Complete "The complete react developer in 2021" course
-- [ ] Complete "Advanced react and redux" course
-- [ ] Books - read "The Checklist Manifesto" by Atul Gawande
-- [ ] Books - read "Make it Stick" by Brown, Roediger & McDaniel
+- [ ] Complete first "The complete react developer in 2021" course
+- [ ] Complete second "Advanced react and redux" course
+- [ ] Books - read first "The Checklist Manifesto" by Atul Gawande
+- [ ] Books - read second "Make it Stick" by Brown, Roediger & McDaniel
 
 ## Code Log
 
@@ -38,6 +38,13 @@ This is my version of the 100 days of code, personally what works for me is a sh
     CodeWars: 7kyu range bit counting - completed
 
 
+**2. Course: "The complete react developer in 2021"**
+  - Going through the lifecycle of a component, which consists of three main phases:-
+    - xx
+    - xx
+    - xx
+
+![3-ECommerce-png](assets/images/png/3-ECommerce.png)
 
 
 **Links:**
@@ -113,7 +120,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 **3. Book: "The Checklist Manifesto"**
    - Read: Intro & Ch.1 The problem of extreme complexity 
      - Key takeout(s):
-     - 'one needs to practice to achieve mastery, a body of experience before one achieves real success."
+     - 'one needs to practice to achieve mastery, a body of experience before one achieves real success.'
      - However that alone is not the answer as mistakes are still made by even the most well trained and intentioned individuals. 
 
 **Links:**
