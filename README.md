@@ -41,6 +41,12 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 
 
+**2. Course: "The complete react developer in 2021"**
+  - Covered Routing in React using the react router package
+    - 
+
+
+---
 
 
 ### Day 3: March 10, 2021 - Wednesday
