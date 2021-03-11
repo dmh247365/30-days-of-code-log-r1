@@ -28,11 +28,26 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ### Code Log
 
+### Day 4: March 11, 2021 - Thursday
+
+|  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------  
+| 3/30 | 0/30 | 0/30 | 3/30 | N/A | 3/30 | N/A |
+
+
+**1. Code Challenge:**
+   CodeWars: 
+    CodeWars: xxxxx
+
+
+
+
+
 ### Day 3: March 10, 2021 - Wednesday
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
-| 3/30 | 0/30 | 0/30 | 3/30 | N/A | 2/30 | N/A |
+| 3/30 | 0/30 | 0/30 | 3/30 | N/A | 3/30 | N/A |
 
 
 **1. Code Challenge:**
@@ -42,10 +57,16 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 **2. Course: "The complete react developer in 2021"**
   - Started building E Commerce site in React 
-    - Did Homepage and broken it down into components 
+    - Did Homepage and broke it down into components 
     - Used Sass - which is css with superpowers
 
 ![3-ECommerce-png](assets/images/png/3-ECommerce.png)
+
+
+**3. Book: "The Checklist Manifesto"**
+   - Read: Ch.4 The Idea
+     - Key takeout(s):
+     - xx
 
 
 **Links:**
@@ -78,7 +99,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 
 **3. Book: "The Checklist Manifesto"**
-   - Read: Ch.2 The Checklist- & Ch.3 The end of the Master Builder
+   - Read: Ch.2 The Checklist & Ch.3 The end of the Master Builder
      - Key takeout(s):
      - Checklist should be simple, brief and to the point. Checklists establish a higher standard of baseline performance.
      - Complex problems cannot be solved by one person, group ownership, responsibility and visible accountability is the key.
