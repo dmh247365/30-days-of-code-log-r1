@@ -33,31 +33,36 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
-| 3/30 | 0/30 | 0/30 | 3/30 | N/A | 3/30 | N/A |
+| 5/30 | 0/30 | 0/30 | 5/30 | N/A | 5/30 | N/A |
 
                 -----------------------------------------------------------------------------
 
 **1. Code Challenge:**
    CodeWars: 
-    CodeWars: xxxxx
+    CodeWars:  7kyu find next perfect square - completed
 
-        ----------------------------------------------------------------------------------
+                -----------------------------------------------------------------------------
 
 
 **2. Course: "The complete react developer in 2021"**
 
-- Covered Routing in React using the react router package  
-  
+- Built the sign in form, and created a button component which can be re-used. 
 
 ![4-ECommerce-png](assets/images/gif/5-signin3.gif)
 
-      ------------------------------------     ----------------------------------------
+                -----------------------------------------------------------------------------
 
 
 **3. Book: "The Checklist Manifesto"**
-   - Read: Ch.4 The Idea
+   - Read: Ch. 6 The Checklist Factory
      - Key takeout(s):
      - xx
+
+
+**Links:**
+- Code Challenge:  
+    - Find next perfect square - [Readme & notes](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-find-the-next-perfect-square.md)
+    - Find next perfect square - [JS Solution(s)](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-find-the-next-perfect-square.js)
 
 
 ---
@@ -68,17 +73,19 @@ This is my version of the 100 days of code, personally what works for me is a sh
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
 | 4/30 | 0/30 | 0/30 | 4/30 | N/A | 4/30 | N/A |
 
-                            -------
+                -----------------------------------------------------------------------------
+
 
 **1. Code Challenge:**
    CodeWars: 
-    CodeWars: xxxxx
+    CodeWars: 7kyu exes and ohs - completed
 
-                            -------
+                -----------------------------------------------------------------------------
+
 
 **2. Course: "The complete react developer in 2021"**
-  - Covered Routing in React using the react router package
-    - 
+  - Completed the shop page which display items over 4 columns.
+  - Built a header component which is used across different pages.
 
 ![4-Header-png](assets/images/png/4-Header.png)
 
@@ -87,13 +94,21 @@ This is my version of the 100 days of code, personally what works for me is a sh
 ![4-ShopPage-png](assets/images/png/4-ShopPage.png)
 
 
+                -----------------------------------------------------------------------------
 
 
 **3. Book: "The Checklist Manifesto"**
    - Read: Ch.5 The First Try
      - Key takeout(s):
-     - xx
+     - Even a top surgeons can get a checklist wrong.
+     - Involve those who will be using it.
+     - Have a go but be ready to scrap/redo or tweak if necessary, its not carved in stone.
 
+
+**Links:**
+- Code Challenge:  
+    - Exes and ohs - [Readme & notes](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-exes-and-ohs.md)
+    - Exes and ohs - [JS Solution(s)](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-exes-and-ohs.js)
 
 
 ---
@@ -105,12 +120,13 @@ This is my version of the 100 days of code, personally what works for me is a sh
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
 | 3/30 | 0/30 | 0/30 | 3/30 | N/A | 3/30 | N/A |
 
-                            -------
+                -----------------------------------------------------------------------------
 
 **1. Code Challenge:**
    CodeWars: 
     CodeWars: 7kyu range bit counting - <span style="color: #00ff00">completed</span>
 
+                -----------------------------------------------------------------------------
 
 **2. Course: "The complete react developer in 2021"**
   - Started building E Commerce site in React 
@@ -119,18 +135,19 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ![3-ECommerce-png](assets/images/png/3-ECommerce.png)
 
-                            -------
+                -----------------------------------------------------------------------------
 
 **3. Book: "The Checklist Manifesto"**
    - Read: Ch.4 The Idea
      - Key takeout(s):
-     - xx
+     - Checklists are everywhere, professional football coordinators, stage sets, professional kitchens.
+     - The Checklist must also permit discussion on an concerns etc.
 
 
 **Links:**
 - Code Challenge:  
-    - Sum of odd numbers - [Readme & notes](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-range-bit-counting.md)
-    - Sum of odd numbers - [JS Solution(s)](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-range-bit-counting.js)
+    - Range bit counting - [Readme & notes](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-range-bit-counting.md)
+    - Range bit counting - [JS Solution(s)](https://github.com/dmh247365/javascript-code-challenges/blob/main/CodeWars/7kyu/7kyu-range-bit-counting.js)
 
 
 
@@ -142,12 +159,12 @@ This is my version of the 100 days of code, personally what works for me is a sh
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
 | 2/30 | 0/30 | 0/30 | 2/30 | N/A | 2/30 | N/A |
 
-                            -------
+                -----------------------------------------------------------------------------
 
 **1. Code Challenge:**
-   CodeWars: 7kyu sum of odd numbers - <span style="color: #00ff00">completed</span>
+   CodeWars: 7kyu sum of odd numbers - completed
 
-                            -------
+                -----------------------------------------------------------------------------
 
 **2. Course: "The complete react developer in 2021"**
   - Going through the lifecycle of a component, which consists of three main phases:-
@@ -165,7 +182,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ![2-ComponentPhases-png](assets/images/png/2-ComponentPhases.png)
 
-                            -------
+                -----------------------------------------------------------------------------
 
 **3. Book: "The Checklist Manifesto"**
    - Read: Ch.2 The Checklist & Ch.3 The end of the Master Builder
@@ -188,12 +205,13 @@ This is my version of the 100 days of code, personally what works for me is a sh
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
 | 1/30 | 0/30 | 0/30 | 1/30 | N/A | 1/30 | N/A |
 
-                            -------
 
+                -----------------------------------------------------------------------------
 
 **1. Code Challenge:**
    CodeWars: 7kyu Vaporcode - <span style="color: #00ff00">completed</span>
 
+                -----------------------------------------------------------------------------
 
 **2. Course: "The complete react developer in 2021"**
   - Covering the basics of React, using create react app, pulling simple data from 3rd party api and hosting with github pages.
@@ -207,6 +225,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
   ![1-MonsterRolodex-png](assets/images/png/1-MonsterRolodex.png)
 
 
+                -----------------------------------------------------------------------------
 
 **3. Book: "The Checklist Manifesto"**
    - Read: Intro & Ch.1 The problem of extreme complexity 
