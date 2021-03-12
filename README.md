@@ -27,25 +27,72 @@ This is my version of the 100 days of code, personally what works for me is a sh
 &nbsp;  
 
 ### Code Log
+---  
 
-### Day 4: March 11, 2021 - Thursday
+### Day 5: March 12, 2021 - Friday
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
 | 3/30 | 0/30 | 0/30 | 3/30 | N/A | 3/30 | N/A |
 
+                            -------
 
 **1. Code Challenge:**
    CodeWars: 
     CodeWars: xxxxx
 
+                            -------
 
+
+**2. Course: "The complete react developer in 2021"**
+
+- Covered Routing in React using the react router package  
+  
+
+![4-ECommerce-png](assets/images/gif/5-signin3.gif)
+
+                            -------
+
+
+**3. Book: "The Checklist Manifesto"**
+   - Read: Ch.4 The Idea
+     - Key takeout(s):
+     - xx
+
+
+---
+
+### Day 4: March 11, 2021 - Thursday
+
+|  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------  
+| 4/30 | 0/30 | 0/30 | 4/30 | N/A | 4/30 | N/A |
+
+                            -------
+
+**1. Code Challenge:**
+   CodeWars: 
+    CodeWars: xxxxx
+
+                            -------
 
 **2. Course: "The complete react developer in 2021"**
   - Covered Routing in React using the react router package
     - 
 
-![4-ECommerce-png](assets/images/gif/4-signin3.gif)
+![4-Header-png](assets/images/png/4-Header.png)
+
+
+
+![4-ShopPage-png](assets/images/png/4-ShopPage.png)
+
+
+                            -------
+
+**3. Book: "The Checklist Manifesto"**
+   - Read: Ch.5 The First Try
+     - Key takeout(s):
+     - xx
 
 
 
@@ -58,6 +105,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
 | 3/30 | 0/30 | 0/30 | 3/30 | N/A | 3/30 | N/A |
 
+                            -------
 
 **1. Code Challenge:**
    CodeWars: 
@@ -71,6 +119,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ![3-ECommerce-png](assets/images/png/3-ECommerce.png)
 
+                            -------
 
 **3. Book: "The Checklist Manifesto"**
    - Read: Ch.4 The Idea
@@ -93,19 +142,30 @@ This is my version of the 100 days of code, personally what works for me is a sh
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
 | 2/30 | 0/30 | 0/30 | 2/30 | N/A | 2/30 | N/A |
 
+                            -------
 
 **1. Code Challenge:**
    CodeWars: 7kyu sum of odd numbers - <span style="color: #00ff00">completed</span>
 
+                            -------
 
 **2. Course: "The complete react developer in 2021"**
   - Going through the lifecycle of a component, which consists of three main phases:-
+  
     - Mounting: done first
-    - Updating: we can put in `shouldComponentUpdate()` with a ternary operator, so as to render or not. 
+      - constructor()
+      - render()
+      - componentDidMount()
+    - Updating: we can put in `shouldComponentUpdate()` with a ternary operator, so as to render or not.
+      - render()
+      - componentDidUpdate()
     - Unmounting: when done, component is forgotten about by DOM.
+      - componentWillUnmount()  
+
 
 ![2-ComponentPhases-png](assets/images/png/2-ComponentPhases.png)
 
+                            -------
 
 **3. Book: "The Checklist Manifesto"**
    - Read: Ch.2 The Checklist & Ch.3 The end of the Master Builder
@@ -128,8 +188,8 @@ This is my version of the 100 days of code, personally what works for me is a sh
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
 | 1/30 | 0/30 | 0/30 | 1/30 | N/A | 1/30 | N/A |
 
+                            -------
 
----
 
 **1. Code Challenge:**
    CodeWars: 7kyu Vaporcode - <span style="color: #00ff00">completed</span>
