@@ -35,13 +35,13 @@ This is my version of the 100 days of code, personally what works for me is a sh
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
 | 3/30 | 0/30 | 0/30 | 3/30 | N/A | 3/30 | N/A |
 
-                            -------
+                            -----------------------
 
 **1. Code Challenge:**
    CodeWars: 
     CodeWars: xxxxx
 
-                            -------
+                    --------------------------------
 
 
 **2. Course: "The complete react developer in 2021"**
@@ -87,7 +87,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 ![4-ShopPage-png](assets/images/png/4-ShopPage.png)
 
 
-                            -------
+                                    
 
 **3. Book: "The Checklist Manifesto"**
    - Read: Ch.5 The First Try
