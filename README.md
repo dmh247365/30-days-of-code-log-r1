@@ -27,8 +27,31 @@ This is my version of the 100 days of code, personally what works for me is a sh
 &nbsp;  
 
 ### Code Log
----  
+---
 
+## 6 - Redux ##
+### Day 6: March 13, 2021 - Saturday
+
+|  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------  
+| 5/30 | 0/30 | 0/30 | 5/30 | N/A | 5/30 | N/A |
+
+                -----------------------------------------------------------------------------
+
+**1. Code Challenge:**
+   CodeWars: 
+    CodeWars:  7kyu xxx
+
+                -----------------------------------------------------------------------------
+
+
+**2. Course: "The complete react developer in 2021"**
+
+- xxx
+
+---
+
+## 5 - Forms ##
 ### Day 5: March 12, 2021 - Friday
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
@@ -56,7 +79,9 @@ This is my version of the 100 days of code, personally what works for me is a sh
 **3. Book: "The Checklist Manifesto"**
    - Read: Ch. 6 The Checklist Factory
      - Key takeout(s):
-     - xx
+     - Aircraft industry - electronic/hefty volumes of checklists
+     - Updates send out aircraft manufacturers
+     - Good checklists are precise. They are efficient, to the point, and easy to use even in the most difficult situations. They do not try to spell out everything - a checklist cannot fly a plane. Instead they provide a reminders of only the most critical and important steps - the ones that even the highest skilled professionals using them could miss. Good checklists are, above all practical.
 
 
 **Links:**
@@ -67,6 +92,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ---
 
+## 4 - Add page & header, use react router ##
 ### Day 4: March 11, 2021 - Thursday
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
@@ -113,7 +139,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ---
 
-
+## 3 - Split page into components ##
 ### Day 3: March 10, 2021 - Wednesday
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
@@ -153,6 +179,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ---
 
+## 2 - Component Lifecycle ##
 ### Day 2: March 9, 2021 - Tuesday
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
@@ -199,6 +226,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 ---
 
+## 1 - React Intro ##
 ### Day 1: March 8, 2021 - Monday
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
