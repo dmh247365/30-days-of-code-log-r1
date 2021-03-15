@@ -47,8 +47,28 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 **2. Course: "The complete react developer in 2021"**
 
-- xxx
+- Took a step away and went a bit deeper into Redux. Create a small none React use of Redux together with a detailed readme.
+  
 
+described the Redux cycle below in a detailed and easy to understand way (see links) 
+
+![5-Redux-Cycle-png](assets/images/png/5-Redux-Cycle.png)
+
+
+**3. Book: "The Checklist Manifesto"**
+   - Read: Ch. 7 The Test
+     - Key takeout(s):
+     - xx
+     
+
+**Links:**
+- Redux:  
+   - Redux-learn - [Readme & notes](https://github.com/dmh247365/redux-learn/blob/main/README.md)
+   - Redux-learn - [JS](https://github.com/dmh247365/redux-learn/blob/main/app.js)
+
+
+- Code Challenge:  
+    
 ---
 
 ## 5 - Forms ##
