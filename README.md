@@ -34,13 +34,12 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
-| 5/30 | 0/30 | 0/30 | 5/30 | N/A | 5/30 | N/A |
+| 5/30 | 0/30 | 0/30 | 6/30 | N/A | 6/30 | N/A |
 
                 -----------------------------------------------------------------------------
 
 **1. Code Challenge:**
-   CodeWars: 
-    CodeWars:  7kyu xxx
+   CodeWars: None done today, spent time on going deep into Redux
 
                 -----------------------------------------------------------------------------
 
@@ -49,16 +48,17 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 - Took a step away and went a bit deeper into Redux. Create a small none React use of Redux together with a detailed readme.
   
+described the Redux cycle below in a detailed and easy to understand way (see Redux-learn in links).
 
-described the Redux cycle below in a detailed and easy to understand way (see links) 
+![5-Redux-Cycle-png](assets/images/png/6-Redux-Cycle.png)
 
-![5-Redux-Cycle-png](assets/images/png/5-Redux-Cycle.png)
 
+                -----------------------------------------------------------------------------
 
 **3. Book: "The Checklist Manifesto"**
    - Read: Ch. 7 The Test
      - Key takeout(s):
-     - xx
+     - The checklist must be used out in the field, with a controlled user group and fully monitored. Albeit this was for a surgical checklist, but even if doing it for a software project, would need some form of governance and monitoring in place.
      
 
 **Links:**
@@ -66,9 +66,6 @@ described the Redux cycle below in a detailed and easy to understand way (see li
    - Redux-learn - [Readme & notes](https://github.com/dmh247365/redux-learn/blob/main/README.md)
    - Redux-learn - [JS](https://github.com/dmh247365/redux-learn/blob/main/app.js)
 
-
-- Code Challenge:  
-    
 ---
 
 ## 5 - Forms ##
