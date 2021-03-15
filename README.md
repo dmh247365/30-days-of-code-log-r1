@@ -50,7 +50,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
   
 described the Redux cycle below in a detailed and easy to understand way (see Redux-learn in links).
 
-![5-Redux-Cycle-png](assets/images/png/6-Redux-Cycle.png)
+![6-Redux-Cycle-png](assets/images/png/6-Redux-Cycle.png)
 
 
                 -----------------------------------------------------------------------------
