@@ -31,7 +31,7 @@ This is my version of the 100 days of code, personally what works for me is a sh
 
 
 ## 7 & 8 - Express.js ##
-### Day 7: March 15, 2021 - Monday & Day 8: March 16, 2021
+### Day 7: March 15, 2021 - Monday & Day 8: March 16, 2021 - Tuesday
 
 |  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------  
