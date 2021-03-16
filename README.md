@@ -29,6 +29,47 @@ This is my version of the 100 days of code, personally what works for me is a sh
 ### Code Log
 ---
 
+
+## 7 & 8 - Express.js ##
+### Day 7: March 15, 2021 - Monday & Day 8: March 16, 2021
+
+|  Code Challenge | Exam Prep: JSNAD | Exam Prep: JSNSD | Course: React dev | Course: Adv React | Read: Checklist Manifesto  | Read: Make it Stick |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------  
+| 5/30 | 0/30 | 2/30 | 6/30 | N/A | 8/30 | N/A |
+
+                -----------------------------------------------------------------------------
+
+**1. Code Challenge:**
+   CodeWars: 
+    CodeWars:  None done
+
+                -----------------------------------------------------------------------------
+
+
+**2. Exam Prep: JSNSD**
+
+- In the exam when building a web server can choose between the node HTTP module,  Fastify or Express. Have decided that although fastify seems to be better especially as it handles promises, will focus on Express as it still the defacto approach. 
+
+For the last couple of days been going over Express and in work for  the last couple of years been using Nest.JS.
+
+                -----------------------------------------------------------------------------
+
+
+**3. Book: "The Checklist Manifesto"**
+   - Read: Ch. 8 The Hero in the Age of the Checklist.
+     - Key takeout(s):
+     -  xx
+     -  xx
+     -  
+   - Read: Ch. 9 The Save.
+     -  xx
+     - xxx
+
+**Links:**
+- Code Challenge:  
+
+---
+
 ## 6 - Redux ##
 ### Day 6: March 13, 2021 - Saturday
 
@@ -211,7 +252,7 @@ described the Redux cycle below in a detailed and easy to understand way (see Re
                 -----------------------------------------------------------------------------
 
 **2. Course: "The complete react developer in 2021"**
-  - Going through the lifecycle of a component, which consists of three main phases:-
+  - Going through the lifecycle of a Class component, which consists of three main phases:-
   
     - Mounting: done first
       - constructor()
@@ -225,6 +266,9 @@ described the Redux cycle below in a detailed and easy to understand way (see Re
 
 
 ![2-ComponentPhases-png](assets/images/png/2-ComponentPhases.png)
+
+
+*** Note: Class components are considered legacy code as we now have hooks. ***
 
                 -----------------------------------------------------------------------------
 
