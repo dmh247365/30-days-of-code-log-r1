@@ -30,6 +30,9 @@ This is my version of the 100 days of code, personally what works for me is a sh
 ---
 
 
+
+
+
 ## 7 & 8 - Express.js ##
 ### Day 7: March 15, 2021 - Monday & Day 8: March 16, 2021 - Tuesday
 
@@ -58,12 +61,14 @@ For the last couple of days been going over Express and in work for  the last co
 **3. Book: "The Checklist Manifesto"**
    - Read: Ch. 8 The Hero in the Age of the Checklist.
      - Key takeout(s):
-     -  xx
-     -  xx
-     -  
-   - Read: Ch. 9 The Save.
-     -  xx
-     - xxx
+     -  Jan 14, 2009 The World health Organisation published 
+     -  Jan 15, 2009 Captain Sully and his crew became hero's, he and the co-pilot saved the lives of 155 people on board when they landed the plan on the Hudson River.
+     -  As Sully pointed out it was a team effort, and due to the training and processes (checklist) that they followed.
+  
+   - Read: Ch. 9 The Save (The Final Chapter)
+     - Checklists & the teamwork they foster, does work, its been proven throughout the world.
+     - The author, a surgeon had a case Mr Hagerman, who without the checklist would have died.
+     - Checklists are not just for the medical profession!.
 
 **Links:**
 - Code Challenge:  
